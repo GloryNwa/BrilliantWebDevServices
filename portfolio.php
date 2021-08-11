@@ -253,13 +253,7 @@ cheap website design in nigeria, software development company in lagos, software
 
            <div class="span4">
             <div class="widget">
-            <h5 class="widgetheading">Get in touch</h5>
-            <p>
-                <i class="icon-phone" style="color: #ff5821"></i> <a href="tel:+07068057873"style="color:#fff;">07068057873 </a>, <a href="tel:+09014502411" style="color:#fff;">09014502411</a> <br>
-                <!-- <i class="icon-envelope-alt" style="color: #ff5821"></i><a href="mailto: contact@brilliantdevelopers.net?Subject=Hello! Welcome to Brilliant Developers" target="_top" style="color:#fff;">contact@brilliantdevelopers.net</a><br> -->
-                <i class="icon-envelope-alt" style="color: #ff5821"></i> <a href="mailto: techiebabes@gmail.com?Subject=Hello! Welcome to Brilliant Developers" target="_top" style="color:#fff;">techiebabes@gmail.com</a> 
-              </p>
-                <hr>   
+            
               <h5 style="color:#fff">Number Guessing Game</h5>
               <div id="game">
              <p style="color: #fff">Guess a number between <span class="min-num"></span> to <span class="max-num"></span></p>
