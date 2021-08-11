@@ -1,14 +1,14 @@
 <?php
 
-$db_host = 'localhost';
-$db_user = 'root';
-$db_password = '';
-$db_name = 'brilliantdevelopers';
+// $db_host = 'localhost';
+// $db_user = 'root';
+// $db_password = '';
+// $db_name = 'brilliantdevelopers';
 
-// $db_host = 'remotemysql.com';
-// $db_user = 'cllNCzBdnm';
-// $db_password = '0tfcaATAqU';
-// $db_name = 'cllNCzBdnm';
+$db_host = 'remotemysql.com';
+$db_user = 'cllNCzBdnm';
+$db_password = '0tfcaATAqU';
+$db_name = 'cllNCzBdnm';
 
 // mysql://bd6be8838570c4:f1bd98de@us-cdbr-east-03.cleardb.com/heroku_c45f68a61de44e6?
 // CLEARDB_DATABASE_URL
