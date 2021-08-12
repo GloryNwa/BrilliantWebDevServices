@@ -128,9 +128,9 @@
       <div class="container">    
         <div class="row">
           <div class="span12">
-        <div class="row">
-            <h4 style="text-align: center"><strong><span> Cutting-edge Brilliant</span>      Web Solutions</strong></h4>
-             <h6  style="text-align: center"> Everything required for your web solutions sorted at a single place!</h6><br>
+            <div class="row">
+              <h4 style="text-align: center"><strong><span> Cutting-edge Brilliant</span>     Web Solutions</strong></h4>
+                <h6  style="text-align: center"> Everything required for your web solutions sorted at a single place!</h6><br>
               <div class="span4">
                 <div class="">
                   <div class="">
@@ -160,8 +160,8 @@
               </div>
 
               <div class="span4">
-              <div class="">
-                <!-- <div class="box flyRight"> -->
+               <div class="">
+                 <!-- <div class="box flyRight"> -->
                   <div class="">
                     <h5>Modern & Mobile Responsive</h5><hr>
                       One of the greatest challenges of responsive design is taking a content-heavy website and make it fit on all screens sizes. Responsive mobile-friendly is a skill required for every developer in today's mobile world. As a developer, we cater for the variety of screens, from the giant corporate monitor to the smartwatch, there are a huge number of ways that users can access information online. Brilliant Developers knows the techniques and philosophies behind modern responsive development regardless of whatever screen the site is been viewed on.
@@ -171,13 +171,17 @@
               </div>
 
             </div>
+
+            
           </div>
-        </div> 
-   
-     <hr>  
-      <?php include("ourPlans.php");?>
-        
-       <hr>
-       </section>            
      
+        </div>      
+   
+    
+   
+    <hr>  
+        <?php include("ourPlans.php");?> 
+        </div> 
+</section>            
+       <hr>
 <?php include("footerr.php");?>

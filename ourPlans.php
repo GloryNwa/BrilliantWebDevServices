@@ -12,6 +12,7 @@
 
     <div class="row">
           <div class="span12">
+            
             <div class="row">
               <div class="span12">
                 <div class="aligncenter">
@@ -24,6 +25,7 @@
             </div>
 
            <div class="row">
+            
 
               <div class="span3">
                 <div class="pricing-box-wrap animated-fast flyIn"style="height:500px; overflow:scroll">
@@ -153,12 +155,12 @@
                     </ul>
                     
                   </div>
-                  <div class="pricing-action">
-                    <a href="contact.php" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>Contact Us</a>
-                  </div>
-                </div>
+                    <div class="pricing-action">
+                      <a href="contact.php" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>Contact Us</a>
+                   </div>
               </div>
             </div>
-           
-          </div>
         </div>
+</div>
+
+ </div>

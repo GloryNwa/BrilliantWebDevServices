@@ -31,22 +31,22 @@
   }
 </style>
 
-<div class="row">
+   <div class="row">
       <div class="span12 aligncenter">
             <h4 class="title">What people are saying about us</h4>
             <div class="blankline30"></div>
 
             <ul class="bxslider">
-            <?php  $query = "SELECT * FROM testimony LIMIT 7";
+            <?php  $query = "SELECT * FROM testimony LIMIT 7 ";
              if ($query_run = mysqli_query($connection,$query)) {
 
 
-         while($query_row = mysqli_fetch_assoc($query_run)){
+            while($query_row = mysqli_fetch_assoc($query_run)){
               $testimoni = $query_row['testimoni'];
               $name = $query_row['name'];
               $url = $query_row['url'];     
             
-          ?>
+             ?>
               <li>
                 <blockquote>
                 <?php echo $testimoni;?>
@@ -69,16 +69,13 @@
         </div>
 
       </div>
-    
-  </div>
-
+  
  
-  <div style="border: 1px solid #ff5821"></div>
-   <footer style="background-image: url(img/map.png);">
-      <div class="container">
+     <div style="border: 1px solid #ff5821"></div>
+            <footer style="background-image: url(img/map.png);">
+       <div class="container">
 
-        <div class="row">
-
+          <div class="row">
            <div class="span2">
                <div class="widget">
                 <h5 class="widgetheading">Our Company</h5>

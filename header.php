@@ -17,7 +17,7 @@ cheap website development in nigeria, software development company in lagos, sof
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Professional Web And Mobile Application Developers" />
   <meta name="author" content="Glory Nwa" />
-  <meta http-equiv="refresh" content="180">
+  <meta http-equiv="refresh" content="300">
    <!-- Favicon icon -->
    <link rel="icon" type="image/png" sizes="32x32" href="./img/fav32.png">
   <!-- css -->
