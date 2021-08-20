@@ -68,7 +68,7 @@ cheap website development in nigeria, software development company in lagos, sof
            <div class="span6">
 
               <ul class="social-network"> 
-              <li><a href="ttps://www.linkedin.com/in/glory-nwa-8a2a27103/" data-placement="bottom" title="Linkedin"><i class="icon-linkedin icon-white"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/glory-nwa-8a2a27103/" data-placement="bottom" title="Linkedin"><i class="icon-linkedin icon-white"></i></a></li>
                 <!-- <li><a href="#" data-placement="bottom" title="Facebook"><i class="icon-facebook icon-white"></i></a></li> -->
                 <!-- <li><a href="https://github.com/GloryNwa/" data-placement="bottom" title="GitHub"><i class="icon-github icon-white"></i></a></li> -->
                 <li><a  href="https://api.whatsapp.com/send?phone=+2347068057873" data-placement="bottom" title="Whatsapp"><img src="img/whatss.PNG" style="width:20px; border-radius:8px"></a></li>
